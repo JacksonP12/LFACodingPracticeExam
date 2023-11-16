@@ -135,7 +135,7 @@ def genGrid(size,targets,numbers, arrows):
     
     return(f"{alocrow}{aloccol}{founddir}",grid)
 
-size = 6
+size = "6"
 targets="15 23 24 32 33 34 42 43 51"
 numbers="401211 401211"
 arrows="00G 20G 40G 53B 02G 03D 04G 35A"
